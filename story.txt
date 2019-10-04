@@ -1,0 +1,6 @@
+this x2 story is start of xteam's work. This story.txt is creating
+ story via linux. Remote connect from our own computer and clone our
+ github repository. create a text file name story an put info and save it. 
+add story.
+
+
