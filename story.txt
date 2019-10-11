@@ -12,4 +12,13 @@ Life on its own is just an individual story. It is a mere one story of
 trillions that have already ended, billions that are being written right now,
 and God knows how many yet to come. And the interesting thing is that
 all of them are closely intertvined and affect each other story in 
-this book of humankind.
+this book of humankind. 
+
+This book of humankind is truely rich in history and culture. For every chapter is
+a life of a human, each with their own story. The chapters of the book are intertuined 
+with each other and can read is almost like a binary search tree. With the book being 
+forever growing, with a new chapter being written everyday, and an old chapter coming 
+to its end; we know that this books is forever infinite.
+
+Love,
+Nayun, Richard, Alex, Jamal
