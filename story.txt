@@ -3,4 +3,7 @@ this x2 story is start of xteam's work. This story.txt is creating
  github repository. create a text file name story an put info and save it. 
 add story.
 
-
+Richard: Here is where we started and we have a long way to go.
+We write stories not to escape programming, but for programming not to escape from us.
+This story is for all the stories in the future still yet to come.
+We start here today and create more of our own stories.
