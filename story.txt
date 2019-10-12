@@ -1,6 +1,6 @@
-this x2 story is start of xteam's work. This story.txt is creating
- story via linux. Remote connect from our own computer and clone our
- github repository. create a text file name story an put info and save it. 
+This x2 story is start of xteam's work. This story.txt is creating
+story via linux. Remote connect from our own computer and clone our
+github repository. create a text file name story an put info and save it. 
 add story.
 
 Richard: Here is where we started and we have a long way to go.
@@ -22,3 +22,7 @@ to its end; we know that this books is forever infinite.
 
 Love,
 Nayun, Richard, Alex, Jamal
+
+Love by all... CS xteam 102
+This story is about how much they loved...
+
